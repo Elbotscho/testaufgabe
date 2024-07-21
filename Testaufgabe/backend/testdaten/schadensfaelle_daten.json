@@ -1,0 +1,352 @@
+[
+    {
+        "schadensnummer": 356655933,
+        "vertragsnummer": 670552368,
+        "datum": "2024-07-05",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 9611.74
+    },
+    {
+        "schadensnummer": 719307184,
+        "vertragsnummer": 490850890,
+        "datum": "2023-04-11",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 6392.37
+    },
+    {
+        "schadensnummer": 118083804,
+        "vertragsnummer": 574286303,
+        "datum": "2022-12-28",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 3343.1
+    },
+    {
+        "schadensnummer": 621652134,
+        "vertragsnummer": 451961958,
+        "datum": "2023-07-30",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 5087.81
+    },
+    {
+        "schadensnummer": 281360180,
+        "vertragsnummer": 321544515,
+        "datum": "2024-07-07",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 4244.9
+    },
+    {
+        "schadensnummer": 672664769,
+        "vertragsnummer": 325574395,
+        "datum": "2024-04-11",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 4988.67
+    },
+    {
+        "schadensnummer": 649765217,
+        "vertragsnummer": 436176843,
+        "datum": "2024-05-13",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 7942.21
+    },
+    {
+        "schadensnummer": 557788725,
+        "vertragsnummer": 479852616,
+        "datum": "2023-11-08",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 309.49
+    },
+    {
+        "schadensnummer": 403977207,
+        "vertragsnummer": 851982900,
+        "datum": "2022-10-03",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 4850.71
+    },
+    {
+        "schadensnummer": 817520303,
+        "vertragsnummer": 297549401,
+        "datum": "2024-04-14",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 9749.05
+    },
+    {
+        "schadensnummer": 631768757,
+        "vertragsnummer": 676551990,
+        "datum": "2024-05-21",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 6988.81
+    },
+    {
+        "schadensnummer": 779210309,
+        "vertragsnummer": 410356101,
+        "datum": "2023-02-12",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 8205.55
+    },
+    {
+        "schadensnummer": 425418492,
+        "vertragsnummer": 664477730,
+        "datum": "2023-10-15",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 5304.22
+    },
+    {
+        "schadensnummer": 545377413,
+        "vertragsnummer": 297549401,
+        "datum": "2024-07-10",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 7905.51
+    },
+    {
+        "schadensnummer": 820310083,
+        "vertragsnummer": 328447413,
+        "datum": "2024-01-24",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 6636.4
+    },
+    {
+        "schadensnummer": 435727339,
+        "vertragsnummer": 666076570,
+        "datum": "2023-07-24",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 5725.97
+    },
+    {
+        "schadensnummer": 823748031,
+        "vertragsnummer": 625131368,
+        "datum": "2023-04-15",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 4413.42
+    },
+    {
+        "schadensnummer": 237425245,
+        "vertragsnummer": 771547398,
+        "datum": "2022-05-29",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 9681.35
+    },
+    {
+        "schadensnummer": 925024841,
+        "vertragsnummer": 253288553,
+        "datum": "2021-01-03",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 7090.12
+    },
+    {
+        "schadensnummer": 484078645,
+        "vertragsnummer": 870467855,
+        "datum": "2022-05-16",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 364.72
+    },
+    {
+        "schadensnummer": 244347690,
+        "vertragsnummer": 177208107,
+        "datum": "2024-06-18",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 4282.18
+    },
+    {
+        "schadensnummer": 982005075,
+        "vertragsnummer": 952652841,
+        "datum": "2021-05-20",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 3193.29
+    },
+    {
+        "schadensnummer": 627205616,
+        "vertragsnummer": 459543825,
+        "datum": "2022-08-07",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 457.24
+    },
+    {
+        "schadensnummer": 434921198,
+        "vertragsnummer": 341890841,
+        "datum": "2022-08-04",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 4842.52
+    },
+    {
+        "schadensnummer": 380288149,
+        "vertragsnummer": 371235037,
+        "datum": "2022-08-28",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 7258.73
+    },
+    {
+        "schadensnummer": 930397014,
+        "vertragsnummer": 650613681,
+        "datum": "2021-08-01",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 527.68
+    },
+    {
+        "schadensnummer": 488130917,
+        "vertragsnummer": 676551990,
+        "datum": "2024-05-12",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 5073.62
+    },
+    {
+        "schadensnummer": 359949348,
+        "vertragsnummer": 670552368,
+        "datum": "2024-06-11",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 8851.84
+    },
+    {
+        "schadensnummer": 297782701,
+        "vertragsnummer": 255967313,
+        "datum": "2022-07-11",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 2642.46
+    },
+    {
+        "schadensnummer": 702148041,
+        "vertragsnummer": 666076570,
+        "datum": "2024-01-30",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 9507.79
+    },
+    {
+        "schadensnummer": 749619203,
+        "vertragsnummer": 774165151,
+        "datum": "2020-10-29",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 1879.23
+    },
+    {
+        "schadensnummer": 275215317,
+        "vertragsnummer": 730684438,
+        "datum": "2024-02-20",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 7090.35
+    },
+    {
+        "schadensnummer": 122540034,
+        "vertragsnummer": 811410289,
+        "datum": "2024-02-21",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 4804.86
+    },
+    {
+        "schadensnummer": 464381886,
+        "vertragsnummer": 418442598,
+        "datum": "2022-01-11",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 6238.57
+    },
+    {
+        "schadensnummer": 166187504,
+        "vertragsnummer": 631209622,
+        "datum": "2023-12-30",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 5125.28
+    },
+    {
+        "schadensnummer": 937032776,
+        "vertragsnummer": 148147089,
+        "datum": "2023-04-14",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 9708.07
+    },
+    {
+        "schadensnummer": 117766938,
+        "vertragsnummer": 650613681,
+        "datum": "2020-06-27",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 6979.44
+    },
+    {
+        "schadensnummer": 309125493,
+        "vertragsnummer": 147739871,
+        "datum": "2020-01-17",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 6015.98
+    },
+    {
+        "schadensnummer": 838887782,
+        "vertragsnummer": 371235037,
+        "datum": "2022-08-29",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 3331.3
+    },
+    {
+        "schadensnummer": 291348182,
+        "vertragsnummer": 120033495,
+        "datum": "2024-04-10",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 3696.29
+    },
+    {
+        "schadensnummer": 486397498,
+        "vertragsnummer": 992129253,
+        "datum": "2024-05-04",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 1698.87
+    },
+    {
+        "schadensnummer": 625688053,
+        "vertragsnummer": 720365044,
+        "datum": "2023-10-29",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 8216.13
+    },
+    {
+        "schadensnummer": 825385940,
+        "vertragsnummer": 798712961,
+        "datum": "2022-01-25",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 6697.48
+    },
+    {
+        "schadensnummer": 344337362,
+        "vertragsnummer": 438860871,
+        "datum": "2024-04-01",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 1019.39
+    },
+    {
+        "schadensnummer": 942911983,
+        "vertragsnummer": 757462694,
+        "datum": "2024-06-06",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 6083.07
+    },
+    {
+        "schadensnummer": 541494168,
+        "vertragsnummer": 462807015,
+        "datum": "2022-03-21",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 1132.98
+    },
+    {
+        "schadensnummer": 160048694,
+        "vertragsnummer": 952652841,
+        "datum": "2023-01-12",
+        "schadenstyp": "Diebstahl",
+        "schadenhoehe": 4147.55
+    },
+    {
+        "schadensnummer": 692076318,
+        "vertragsnummer": 790598378,
+        "datum": "2021-01-25",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 4090.88
+    },
+    {
+        "schadensnummer": 767432356,
+        "vertragsnummer": 214747833,
+        "datum": "2023-05-16",
+        "schadenstyp": "Unfall",
+        "schadenhoehe": 7835.8
+    },
+    {
+        "schadensnummer": 510648948,
+        "vertragsnummer": 474864977,
+        "datum": "2023-01-19",
+        "schadenstyp": "Feuer",
+        "schadenhoehe": 9010.52
+    }
+]
