@@ -5,7 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
 from sqlalchemy.inspection import inspect
 from typing import Optional
-from datetime import date
+from datetime import date, datetime
 import csv
 import io
 
@@ -117,6 +117,7 @@ def log_download(db, app, size):
     export_log = ExportLog(
         tabellenname=app,
         exportanzahl=size,
+        zeitstempel= datetime.now(),
     )
     db.add(export_log)
     db.commit()

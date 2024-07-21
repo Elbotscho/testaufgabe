@@ -1,7 +1,6 @@
 from sqlalchemy import create_engine, Column, String, Date, ForeignKey, Float, Enum, Integer, DateTime
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
-from datetime import datetime
 
 # SQLite-Datenbank erstellen
 engine = create_engine('sqlite:///db/versicherung.db', connect_args={"check_same_thread": False})
@@ -47,7 +46,7 @@ class ExportLog(Base):
     id = Column(Integer, primary_key=True, index=True)
     tabellenname = Column(String, index=True)
     exportanzahl = Column(Integer)
-    zeitstempel = Column(DateTime, default=datetime.now())
+    zeitstempel = Column(DateTime)
 
 
 # Erstelle die Tabellen in der Datenbank
