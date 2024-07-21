@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-Faker
-pysqlite3
-jinja2
