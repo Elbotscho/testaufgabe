@@ -34,22 +34,31 @@ Bitte beachten Sie die folgenden Anweisungen, um die nicht-dockerisierte Version
 4. Erstelle und aktiviere eine virtuelle Umgebung:
 
    Entweder mit python:
+   
    	python -m venv venv
    	
    oder mit virtualenv:
+   
    	pip install virtualenv
+   
    	virtualenv venv
   
 5. Aktiviere die virtuelle Umgebung:
+   
    Windows:
+   
    	venv\Scripts\activate
+   
    Unix:
+   
    	source venv/bin/activate
    	
 6. Installiere die Abhängigkeiten:
+   
    pip install -r requirements.txt
    
 7. Führe die FastAPI-Anwendung aus:
+   
    uvicorn main:app --reload
    
 ### Frontend (Angular)
@@ -57,12 +66,15 @@ Bitte beachten Sie die folgenden Anweisungen, um die nicht-dockerisierte Version
 1. Öffne ein neues Terminal
 
 2. Navigiere in das Frontend-Verzeichnis:
+  
    cd Testaufgabe_ohne_docker/frontend
    
 3. Installiere die Abhängigkeiten:
+  
    npm install -g @angular/cli
    
 4. Starte die Angular-Anwendung:
+  
    ng serve
 
 ### Datenbank (SQLite)
