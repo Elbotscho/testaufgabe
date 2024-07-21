@@ -24,12 +24,15 @@ Bitte beachten Sie die folgenden Anweisungen, um die nicht-dockerisierte Version
 1. Öffne ein neues Terminal
 
 2. Klone das Repository:
+
    git clone https://github.com/dein-benutzername/dein-repository.git
    
 3. Navigiere in das Backend-Verzeichnis:
+
    cd Testaufgabe_ohne_docker/backend
 
 4. Erstelle und aktiviere eine virtuelle Umgebung:
+
    Entweder mit python:
    	python -m venv venv
    	
