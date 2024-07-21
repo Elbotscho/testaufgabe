@@ -7,7 +7,7 @@ Diese Web-Anwendung zeigt Versicherungsdaten an. Sie besteht aus einem Angular-F
 - [Installation](#installation)
 - [Verwendung](#verwendung)
 
-##Vorwort
+## Vorwort
 
 
 In unserem Repository sind zwei Versionen der Anwendung enthalten:
@@ -62,11 +62,11 @@ Bitte beachten Sie die folgenden Anweisungen, um die nicht-dockerisierte Version
 4. Starte die Angular-Anwendung:
    ng serve
 
-###Datenbank (SQLite)
+### Datenbank (SQLite)
 
 Die Datenbank ist bereits erstellt und befüllt.
 
-##Verwendung
+## Verwendung
 
 1. Starte zunächst das Backend, indem du die FastAPI-Anwendung ausführst.
 2. Starte dann das Frontend, indem du den Angular-Entwicklungsserver startest.
